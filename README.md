@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahan Nayanajith</h1>
-<h3 align="center">A passionate Electronic and Telecommunication Graduate from Sri Lanka</h3>
+<h3 align="center">A passionate Electronic and Telecommunication graduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahannt98&label=Profile%20views&color=0e75b6&style=flat" alt="sahannt98" /> </p>
 
